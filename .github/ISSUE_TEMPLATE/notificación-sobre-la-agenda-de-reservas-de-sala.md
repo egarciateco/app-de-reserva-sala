@@ -1,5 +1,5 @@
 ---
-name: NOTIFICACIÓN DE LA AGENDA DE RESERVAS DE SALA
+name: NOTIFICACIÓN SOBRE LA AGENDA DE RESERVAS DE SALA
 about: Información sobre el uso de la sala de reuniones
 title: ''
 labels: ''
